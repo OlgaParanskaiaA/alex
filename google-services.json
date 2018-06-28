@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851344580183",
+    "firebase_url": "https://steel-archery-207616.firebaseio.com",
+    "project_id": "steel-archery-207616",
+    "storage_bucket": "steel-archery-207616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851344580183:android:0eab2af79f7cbe69",
+        "android_client_info": {
+          "package_name": "work.technie.motonavigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851344580183-ll1d1gdgoefn36gvb7ntpjuvt482vr00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALE32lkECHEjOlCrmw_A3uryA4bIdJLCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
